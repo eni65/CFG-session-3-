@@ -1,1 +1,1 @@
-'Hello this is the python file'
+print 'Hello this is the python file'
